@@ -1,0 +1,15 @@
+2018-07-30 unirec-2.3.0
+	* unirec:
+		Add lists related to types and sizes of UniRec fields into public API
+
+2017-08-07 unirec-2.2.6
+	* doc updates
+	* minor improvements and bugfixes
+
+2016-07-26 unirec-2.2.3
+	* update spec file dependencies and debug package
+	* replaced python processor with bash&awk for ur_values
+	* bugfixes:
+		- ur_processor used bad type of timestamps
+		- fixed multiple execution of ur_processor.sh in tests
+
